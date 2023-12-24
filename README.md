@@ -7,3 +7,9 @@ This is to be considered a amateurish perspective on problem solving and not a g
 ## Folder Structure
 
 Folders are organized per arguments (e.g. arrays, sorting, DP, etc.), inside each folder there will be three folders to categorize the problems by difficulty (easy, medium and hard).
+
+## Progamming Language
+
+I will use Javascript as it's the main programming language I currently use at work.
+
+Might pick up a different language for learning purpose.
